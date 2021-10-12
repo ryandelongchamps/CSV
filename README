@@ -1,0 +1,14 @@
+Part 1 (Sitka 1)
+   - The first part of this project introduced csv implementation using "import csv" and showed the basics of importing data from these types of files
+Part 2 (Sitka 2)
+   - The second part of the project added date data to the graphs.
+   - This allowed for a better way to present the data to the viewers so that the information could be more easily understood.
+Part 3 (Sitka 3)
+   - In the third part, more data points were introduced and were plotted on the same graph. The figure now has the ability to show high and low 
+     temperatures from the dataset
+Part 4 (Sitka 4)
+   - The fourth part introduced the Death Valley dataset and introduced more funcitonality from pyplot.
+Part 5 (csvhw)
+   - The final part compared both the Sitka data and the Death Valley data by creating 2 subplot graphs in one visualization
+   - Automatic indexes were also introduced to rid of any hard-coded data or titles
+ 
